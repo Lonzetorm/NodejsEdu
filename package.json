@@ -1,0 +1,24 @@
+{
+  "name": "tree_builder",
+  "version": "1.0.0",
+  "description": "Shows data-based tree structure ",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lonzetorm/NodejsEdu.git"
+  },
+  "keywords": [
+    "test",
+    "tree",
+    "edu"
+  ],
+  "author": "Vladimir Azarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lonzetorm/NodejsEdu/issues"
+  },
+  "homepage": "https://github.com/Lonzetorm/NodejsEdu#readme"
+}
