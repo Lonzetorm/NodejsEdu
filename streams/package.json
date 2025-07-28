@@ -1,0 +1,24 @@
+{
+  "name": "text_processor",
+  "version": "1.0.0",
+  "description": "Processes text",
+  "main": "indexer.js",
+  "scripts": {
+    "test": "node indexer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lonzetorm/NodejsEdu.git"
+  },
+  "keywords": [
+    "test",
+    "streams",
+    "edu"
+  ],
+  "author": "Vladimir Azarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lonzetorm/NodejsEdu/issues"
+  },
+  "homepage": "https://github.com/Lonzetorm/NodejsEdu#readme"
+}
